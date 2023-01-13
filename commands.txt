@@ -1,0 +1,4 @@
+npm create vite@latest client --template vanilla
+
+server - npm init -y
+npm install cors dotenv express nodemon openai
