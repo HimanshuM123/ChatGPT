@@ -7,8 +7,7 @@ dotenv.config();
 console.log(process.env.OPENAI_API_KEY)
 // const configuration = new Configuration({
 
-//     accessToken: "Bearer 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"
-// })
+
 
 const configuration = new Configuration({
     organization: "org-kwIBRPQ3Utwuuy8DmTEGtTHu",
